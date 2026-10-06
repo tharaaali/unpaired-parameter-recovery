@@ -10,7 +10,7 @@ This review supplement links each empirical claim in the paper to its analysis c
 | `code/recompute_thresholds.py` | Recomputes the counterfactual threshold rates when the raw reference tables are available. |
 | `code/experiments/` | The experiment scripts used to generate the results. Paths alone were adjusted for this folder; numerical calculations are unchanged. |
 | `code/export_calorimeter.py` | Rebuilds the minimal calorimeter tables from the original simulation archives, if those archives are available. |
-| `results/` | Per-run CSV files, summaries, fit predictions and metrics, and saved plots. |
+| `results.zip` | Compressed copy of `results/` for convenient download. |
 | `figures/` | The eight PDF figures included in the manuscript. |
 | `data/README.md` | Documents the omitted calorimeter event archivee and the request procedure. |
 | `requirements.txt` | Tested scientific Python versions for the experiment scripts. The fast verifier and data exporter use only the standard library. |
