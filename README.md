@@ -12,7 +12,7 @@ This review supplement links each empirical claim in the paper to its analysis c
 | `code/export_calorimeter.py` | Rebuilds the minimal calorimeter tables from the original simulation archives, if those archives are available. |
 | `results/` | Per-run CSV files, summaries, fit predictions and metrics, and saved plots. |
 | `figures/` | The eight PDF figures included in the manuscript. |
-| `data/README.md` | Documents the omitted calorimeter event archive and its planned release format. |
+| `data/README.md` | Documents the omitted calorimeter event archivee and the request procedure. |
 | `requirements.txt` | Tested scientific Python versions for the experiment scripts. The fast verifier and data exporter use only the standard library. |
 
 Run the audit from this folder:
